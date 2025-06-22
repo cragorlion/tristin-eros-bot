@@ -8,7 +8,7 @@ from datetime import datetime
 # === CREDENZIALI ===
 TELEGRAM_TOKEN = "7677931058:AAEWbU0UPbmodQv6g9gIk6xfq9xpn2rTkMQ"
 EROS_ID = 1066704183
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "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"
 openai.api_key = OPENAI_API_KEY
 
 bot = telebot.TeleBot(TELEGRAM_TOKEN)
